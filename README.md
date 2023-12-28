@@ -1,2 +1,2 @@
-# LMM
+# LLM
 Code for LLM project
